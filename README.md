@@ -1,6 +1,6 @@
 # oct18_icons
 
-<img src="https://pbs.twimg.com/profile_banners/2977830597/1602159551/1500x500">
+<img src="https://github.com/lizbravob/oct18_icons/raw/main/oct18_icons_socialmedia/0ct18_socialmedia%2005.jpg">
 
 <p>Oct18_Icons collection is inspired by the social outbreak started on October 18, 2019, in Chile. This first version with 12 icons is based on the visual style of <a href="https://openmoji.org">Openmoji</a></p>
 <p>Icons, pictograms, or symbols as graphic elements "carriers of meaning," based on social conventions, must also play a role in communicating political and social demand realities. As part of a broader cultural process, icons shape people's social and symbolic lives, telling stories or inspiring feelings of trust, action, purpose, etc.</p>
@@ -31,5 +31,7 @@
 <li>Pikachu Chileno</li>
   </ul>
 
+## License
 
+ Oct18_icons are licensed under the Creative Commons Share Alike License 4.0 (CC BY-SA 4.0)
 
