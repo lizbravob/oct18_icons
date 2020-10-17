@@ -1,0 +1,11 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <rect x="5.0003" y="17" width="62" height="38" fill="#1e50a0"/>
+    <polygon points="40.35 36 44.699 31.65 40.229 31.771 40.35 27.301 36 31.65 31.651 27.301 31.772 31.771 27.301 31.65 31.651 36 27.301 40.35 31.772 40.228 31.651 44.699 36 40.35 40.35 44.699 40.229 40.228 44.699 40.35 40.35 36" fill="#fff"/>
+  </g>
+  <g id="line">
+    <g id="line-2" data-name="line">
+      <rect x="5.0003" y="17" width="62" height="38" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+  </g>
+</svg>
