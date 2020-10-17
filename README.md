@@ -18,7 +18,7 @@
 
 <ul>
 <li>Cacerolazo</li>
-<li>Matapacos based on #dogface <a href="https://openmoji.org/library/#search=dog&emoji=1F436">Openmoji</a></p></li>
+<li>Matapacos based on #dogface <a href="https://openmoji.org/library/#search=dog&emoji=1F436">Openmoji</a></li>
 <li>Bandera de Chile</li>
 <li>Bandera Pueblos Originarios</li>
 <li>Bandera Mapuche</li>
@@ -27,7 +27,7 @@
 <li>Pareman</li>
 <li>Las Tesis</li>
 <li>Evadir</li>
-<li>Los ojos de chile based on #personfacepalming <a href="https://openmoji.org/library/#group=people-body&emoji=1F926>Openmoji</a></p></li>
+<li>Los ojos de chile based on #personfacepalming <a href="https://openmoji.org/library/#group=people-body&emoji=1F926">Openmoji</a></li>
 <li>Pikachu Chileno</li>
   </ul>
 
