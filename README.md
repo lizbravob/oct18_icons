@@ -13,3 +13,23 @@
 <p>A un año de este acontecimiento se busca plasmar, por medio de un lenguaje visual, significados que son representativos de este periodo, dejando registro de esta realidad que forma parte de la historia de Chile.</p>
 
 <b>Se libre de interactuar, intervenir y compartir :)</b>
+
+## Contenido/Content
+
+<ul>
+<li>Cacerolazo</li>
+<li>Matapacos based on #dogface <a href="https://openmoji.org/library/#search=dog&emoji=1F436">Openmoji</a></p></li>
+<li>Bandera de Chile</li>
+<li>Bandera Pueblos Originarios</li>
+<li>Bandera Mapuche</li>
+<li>Plaza de la Dignidad</li>
+<li>Plebiscito</li>
+<li>Pareman</li>
+<li>Las Tesis</li>
+<li>Evadir</li>
+<li>Los ojos de chile based on #personfacepalming <a href="https://openmoji.org/library/#group=people-body&emoji=1F926>Openmoji</a></p></li>
+<li>Pikachu Chileno</li>
+  </ul>
+
+
+
